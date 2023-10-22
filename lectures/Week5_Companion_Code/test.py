@@ -1,0 +1,2 @@
+import another_mod_inside_lec
+print(another_mod_inside_lec.apikey)
